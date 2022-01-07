@@ -90,7 +90,7 @@ export const showcaseSkills = [
       stack: ["MongoDB","Express", "javascript", "HTML", "CSS",],
     },
     {
-      label: "PluralSight",
+      label: "PluralS",
       imgSrc: "images/s2.jpg",
       src: "https://github.com/Udalmia/Project/tree/master/main",
       githubSrc: "https://github.com/Udalmia/Project/tree/master/main",
